@@ -1,34 +1,13 @@
-# TEST
+# My First GitHub Project 🚀
 
-# 👋 Hey, I'm Tristan!
+## 📌 About the project
+To je moj prvi repozitorij, kjer se učim uporabljati GitHub, README datoteke, commite in urejanje projektov.
 
-### 🇸🇮 High-school developer | ☕ Coffee & Code | 🎮 Gamer & Creator
+## 🧠 What I learned
+- kako ustvariti repozitorij  
+- kako pisati v Markdownu  
+- kako narediti commit  
+- kako organizirati projektno mapo  
 
-Welcome to my GitHub! Tukaj objavljam:
-- 💻 Šolske projekte (Java, HTML, Python)
-- 🌍 Kreativne projekte (alternate history, physics simulacije, itd.)
-- 📚 Učne vaje in raziskovalne stvari
-
----
-
-## 🔧 Technologies I use
-- Java / Swing (NetBeans)  
-- Python  
-- HTML / CSS  
-- Git & GitHub  
-- VS CODE
-
----
-
-## ✨ Something fun about me
-I like fishing 🎣
-
----
-
-## 📫 Contact
-- Discord: **_The_Tristan_**
-- GitHub: [TristanCebron](https://github.com/TristanCebron)
-
----
-
-Thanks for visiting! ⭐ Feel free to star any repo you like!
+## 😄 Fun fact about me
+Rad lovim ribe
